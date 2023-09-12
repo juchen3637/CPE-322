@@ -52,6 +52,7 @@ for i in nums:
 
 # Gif
 
-![image](https://github.com/juchen3637/CPE-322/assets/103432641/34e6b6ae-04b6-432c-989d-533989f26041)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/4c352c00-6484-45b1-8085-5d3b79685468)
+
 
 

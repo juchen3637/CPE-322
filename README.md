@@ -50,9 +50,4 @@ for i in nums:
   print(i)
 ```
 
-# Gif
-
-![image](https://github.com/juchen3637/CPE-322/assets/103432641/4c352c00-6484-45b1-8085-5d3b79685468)
-
-
 

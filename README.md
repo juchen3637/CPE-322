@@ -1,5 +1,7 @@
 ## CPE 322 Assignment 0
 
+This is just normal text
+
 # Normal Bullet Point List
 - Hello
   - This
@@ -28,9 +30,27 @@
 
 # Quotes
 
-> Lots of words blah Lots of words blah Lots of words blah
-> > Lots of words blah  Lots of words blah  Lots of words blah
-> > > Lots of words blah Lots of words blah Lots of words blah Lots of words blah Lots of words blah 
+> "Lots of words blah Lots of words blah Lots of words blah"
+> > "Lots of words blah  Lots of words blah  Lots of words blah"
+> > > "Lots of words blah Lots of words blah Lots of words blah Lots of words blah Lots of words blah"
+
+> "Lots of words blah"
+> "Lots of words blah"
+
+> "Lots of words blah"
+  "Lots of words blah"
+
+# Code
+
+```python
+nums = [4, 5, 8, 9]
+i = 0
+
+for i in nums:
+  print(i)
+```
+
+# Gif
 
 
 

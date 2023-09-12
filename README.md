@@ -52,5 +52,6 @@ for i in nums:
 
 # Gif
 
+<iframe src="https://giphy.com/embed/DyQrKMpqkAhNHZ1iWe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/LINEFRIENDS-brown-line-friends-minini-DyQrKMpqkAhNHZ1iWe">via GIPHY</a></p>
 
 

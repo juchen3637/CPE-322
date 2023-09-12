@@ -5,7 +5,7 @@
 - This
 -   is
 -     a
--   list
+- list
 # Normal Number List
 1. One
 2. Two

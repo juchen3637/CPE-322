@@ -5,8 +5,7 @@
 - This
   - Is
     - A
-- List
-
+    - List
 # Normal Number List
 1. One
 2. Two

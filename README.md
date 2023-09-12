@@ -12,4 +12,5 @@
   <li>It keeps going</li>
 </ol>
 
-<img src="https://i.pinimg.com/474x/01/e3/f9/01e3f9e66ffe4f1917a28f98a4082b08.jpg">
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/db0b906b-79b0-46c3-a42c-266f4bde3e2f)
+

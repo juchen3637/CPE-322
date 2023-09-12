@@ -12,4 +12,4 @@
   <li>It keeps going</li>
 </ol>
 
-<img src="https://cdn.wallpapersafari.com/44/46/B8zl6k.jpg"> 
+<a href="https://cdn.wallpapersafari.com/44/46/B8zl6k.jpg"> 

@@ -5,9 +5,12 @@
 <li>It keeps going</li>
 <li>It keeps going</li>
 
-<ol type=1>
-  <li>List with numbers</li>
-  <li>It keeps going</li>
-  <li>It keeps going</li>
-  <li>It keeps going</li>
-</ol>
+<li>
+  This is a nested list
+  <ol type=1>
+    <li>List with numbers</li>
+    <li>It keeps going</li>
+    <li>It keeps going</li>
+    <li>It keeps going</li>
+  </ol>
+</li>

@@ -3,9 +3,6 @@
 # Normal Bullet Point List
 - Hello
 -   This
--     Is
--       A
--         List
 # Normal Number List
 1. One
 2. Two

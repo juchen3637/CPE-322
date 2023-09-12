@@ -5,7 +5,9 @@
 <li>It keeps going</li>
 <li>It keeps going</li>
 
-<ol>This is a list with numbers</ol>
-<ol>It keeps going</ol>
-<ol>It keeps going</ol>
-<ol>It keeps going</ol>
+<ol type=1>
+  <li>List with numbers</li>
+  <li>It keeps going</li>
+  <li>It keeps going</li>
+  <li>It keeps going</li>
+</ol>

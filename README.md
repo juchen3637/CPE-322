@@ -5,12 +5,11 @@
 <li>It keeps going</li>
 <li>It keeps going</li>
 
-<li>
-  This is a nested list
-  <ol type=1>
-    <li>List with numbers</li>
-    <li>It keeps going</li>
-    <li>It keeps going</li>
-    <li>It keeps going</li>
-  </ol>
-</li>
+<ol type=1>
+  <li>List with numbers</li>
+  <li>It keeps going</li>
+  <li>It keeps going</li>
+  <li>It keeps going</li>
+</ol>
+
+<img src="https://cdn.wallpapersafari.com/44/46/B8zl6k.jpg"> 

@@ -38,16 +38,34 @@ In this lab we are tasked with running multiple command lines in our terminal an
 
 - nano file
   - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/ecf9a7fb-57a7-42f5-a3d5-e2f96ba1751a)
+    
 - cat file
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/f86c65cf-aa90-40fe-bc38-dab70817845f)
+
 - cp file file1
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/1206b761-b6ad-4cb3-836b-3b0da6cb4ad8)
+
 - mv file file2
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/72e3d12a-1fc0-4bfc-bac6-79baca5919eb)
+
 - rm file2
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/9c8f8e1a-99e8-4f5b-9aa4-a12f18742ef1)
+
 - clear
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/73311baf-e487-45b9-9d38-a356ff91f5e6)
+
 - man uname
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/6f6e20fc-6d11-4150-87a3-65f9f7bdf42a)
+  - etc ...
+
 - uname -a
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/b793b133-2471-4101-b40f-de88f70f36f3)
+
 - ifconfig
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/54397b34-b552-4db2-91ef-5c56a8a8899a)
+
 - ping localhost
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/9be99b10-4210-4d18-952e-c52c0a0561c1)
+
 - netstat
-
-
-
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/67620c96-b266-40ba-8cd0-b4a53521873b)

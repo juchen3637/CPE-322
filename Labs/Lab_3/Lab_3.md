@@ -21,7 +21,7 @@ In this lab we are tasked with installing python packages and running and captur
   - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/9e381de5-f7ef-45d6-8822-30465d2fe8df)
 
 - sun.py
-  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/e0108106-caf3-4388-ba33-53abb5dc602d)
+  - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/433acdbb-15bc-4450-91e0-dc403c0fa762)
  
 - moon.py
   - ![image](https://github.com/juchen3637/CPE-322/assets/103432641/cff9fe4a-f9c8-4cad-8ff9-3ebfb3c55582)

@@ -1,4 +1,5 @@
-# CPE 
+# CPE 322 Lab 4
+In this lab we are tasked with installing Django and running 2 different applications, 1 being a REST framework. We are also tasked with running a flask web framework.
 
 ## Stevens App on Django
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/28f8b823-95da-44c2-bd8d-a6d5640c6b70)

@@ -1,5 +1,7 @@
 # CPE 322 Lab 6
 
+## Node.js
+
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/24f86033-6c4a-4c99-a893-26185b8c072b)
 
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/b49ab650-35a9-4706-80c9-e194251808f8)
@@ -11,6 +13,8 @@
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/d1d644c0-4da0-47c3-932d-05015e9e8347)
 
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/7ebd2e13-1bfa-4d8e-b9fb-e63849754304)
+
+## Pystache
 
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/43c45abe-4913-4b10-8013-c8c51af74fab)
 

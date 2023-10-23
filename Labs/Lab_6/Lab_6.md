@@ -1,4 +1,4 @@
-# CPE Lab 6
+# CPE 322 Lab 6
 
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/24f86033-6c4a-4c99-a893-26185b8c072b)
 

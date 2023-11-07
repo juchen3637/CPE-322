@@ -25,6 +25,20 @@ xlogo
 xman
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/26036761-50f0-42d7-8149-7534e309fadc)
 
+numpy
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/8ac9859f-6095-4445-a865-c89fc55d8d9b)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/474017ea-2cd8-451b-ae28-ce0328b1eb27)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/161277f3-4fb4-44cd-b83a-add7a6bcfc2e)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/3fced7f6-1a74-4ccd-823d-5c80ea34636a)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/e97c8eb3-a230-4207-b564-be5cc551cf24)
+
+pyplot
+
+
+
+
+
+
 
 
 

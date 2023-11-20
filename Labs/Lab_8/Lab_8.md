@@ -83,9 +83,9 @@ legend_demo
 ![image](https://github.com/juchen3637/CPE-322/assets/103432641/8eb12b2a-2dac-4853-bb1e-7b81c9c14065)
 
 ## Part B
-![image](https://github.com/juchen3637/CPE-322/assets/103432641/1c469524-04ca-46dc-83ac-f6427c91da86)
-![image](https://github.com/juchen3637/CPE-322/assets/103432641/7352a5e6-e85d-4d47-ac52-61a114c1cd8d)
-![image](https://github.com/juchen3637/CPE-322/assets/103432641/2b72a5b1-64b2-4a7a-978f-bbc986d15cd6)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/e3f4508a-dd9b-4778-8fb0-fa01e1ad4992)
+![image](https://github.com/juchen3637/CPE-322/assets/103432641/ef0f718c-ac39-489a-a403-826603e229c2)
+
 
 
 
